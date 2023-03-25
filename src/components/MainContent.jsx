@@ -1,4 +1,4 @@
-export default function Header(){
+export default function MainContent(){
     return (
         <main className='main'>
             <h1 className='title'>Fun facts about React</h1>

@@ -1,0 +1,14 @@
+.header {
+    background-color: #21222a;
+    color: #deebf8;
+    padding: 2rem 0;
+    &__logo {
+      font-weight: 700;
+      font-size: 2rem;
+      display: flex;
+      align-items: center;
+      color: #61dafb;
+      gap: 0.25rem;
+    }
+  }
+  
